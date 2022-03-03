@@ -1,16 +1,21 @@
 # About Me
 
-👋 My name is Ian, I live in Calgary, Canada 🇨🇦 and I work as a Principal Software Engineer at [Neo Financial](https://www.neofinancial.com) where we're building digital banking products for Canadians. If you're in Canada you can sign up [here](https://neo.cc/V2W5M3R8) and get $25.
+👋 My name is Ian, I live in Calgary, Canada 🇨🇦 and I work as a Principal Software Engineer at [Neo Financial](https://www.neofinancial.com) where we're building digital banking products for Canadians. If you're in Canada you can sign up [here](https://neo.cc/V2W5M3R8) and get $50.
 
-I’m the maintainer of [Create React App](https://github.com/facebook/create-react-app) and I contribute to [Node.js](https://github.com/nodejs/node) as part of the [Tooling Working Group](https://github.com/nodejs/tooling). I also work on a number of other open source projects, mostly in the JavaScript and TypeScript ecosystems.
+I’m the maintainer of [Create React App](https://github.com/facebook/create-react-app) and a member of the [Node.js](https://github.com/nodejs/node) team where I primarily contribute as part of the [Tooling Working Group](https://github.com/nodejs/tooling). I also work on a number of other open source projects, mostly in the JavaScript and TypeScript ecosystems.
 
 If you are interested in supporting any of my open source work I encourage you to sponsor me on [GitHub](https://github.com/sponsors/iansu).
+
+## Speaking
+
+I've spoken at conferences and meetups and been a guest on podcasts and livestreams. I have a list of [past appearances](https://pages.iansutherland.ca/speaking), along with recordings from most of them, on my personal site. If you'd like me to speak at an event or be a guest on a podcast, livestream or panel please [get in touch](https://iansutherland.ca/about).
 
 ## Goals for 2022
 
 - Continue public speaking
-  - In 2021 I spoke at a conference, a meetup, was a podcast guest and did a several panels
-  - I'd like to do even more in 2022! If you'd like me to speak at a conference or be a guest on a podcast, livestream or panel please [get in touch](https://iansutherland.ca/about).
+  - In 2021 I spoke at a conference, a meetup, was a podcast guest and did a several panels. I want to do even more in 2022!
+- Go to conferences
+  - I'm currently planning to attend [Remix Conf](https://remix.run/conf), [OpenJS World](https://events.linuxfoundation.org/openjs-world/) and [CascadiaJS](https://2022.cascadiajs.com/)
 - Write more content and improve [my personal site](https://iansutherland.ca)
 - Contribute more to [Node.js](https://github.com/nodejs/node)
 - Contribute to more open source projects that I use. I want to contribute to all the main parts of my tech stack.
