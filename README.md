@@ -23,6 +23,8 @@ I've spoken at conferences and meetups and been a guest on podcasts and livestre
 
 ## Projects
 
+Want to know what I'm working on this month? Take a look at my list of [current projects](https://pages.iansutherland.ca/current-work).
+
 ### Personal Open Source Projects
 
 These are projects I work on myself in my free time.
